@@ -1,2 +1,2 @@
 # dice
-Dice gane - first try
+Dice game - first try
