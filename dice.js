@@ -8,7 +8,8 @@ document.getElementById("drawCount").innerHTML = draws;
 
 function playDice() {
 
-  var imageNames = ["dice1.png","dice2.png","dice3.png","dice4.png","dice5.png","dice6.png"];
+//  var imageNames = ["dice1.png","dice2.png","dice3.png","dice4.png","dice5.png","dice6.png"];
+  var imageNames = ["dice1.PNG","dice2.PNG","dice3.PNG","dice4.PNG","dice5.PNG","dice6.PNG"];
 
   var myNum1 = Math.floor((Math.random() * 6));
   var myImage1 = "images/"+imageNames[myNum1];
